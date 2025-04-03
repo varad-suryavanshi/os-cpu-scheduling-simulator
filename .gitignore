@@ -1,0 +1,15 @@
+# .gitignore
+
+# Log files
+*.log
+
+# Build artifacts
+*.o
+*.out
+*.exe
+
+# Editor files
+*~
+*.swp
+
+
