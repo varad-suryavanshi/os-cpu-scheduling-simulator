@@ -108,9 +108,3 @@ mkdir -p Outputs
 - Input files and reference outputs must match expected naming conventions (e.g., `input0`, `out_0_F`, etc.).
 
 ---
-
-## 📜 License
-
-MIT License (or your course-specific academic license)
-
----
